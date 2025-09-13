@@ -29,12 +29,15 @@ This project helps explore customer feedback and satisfaction trends for British
 - `British_Airways_Analysis.twbx`: Tableau visualization file.  
 - `README.md`: Documentation.
 
+## Tableau Dashboard
+![Dashboard Preview](https://raw.githubusercontent.com/nitya-sri27/British-Airways-Report/main/Annotation%202025-09-13%20212608.png)
+
 ## 🤝 How to Contribute
 If you have suggestions or improvements:  
 🍴 Fork this repository.  
 🛠️ Create a feature branch.  
 📬 Submit a pull request with your changes.
 
----
+
 
 This project provides valuable insights into customer feedback and helps airlines improve their services with interactive visualizations. Feel free to explore, learn, and contribute!
