@@ -30,8 +30,7 @@ This project helps explore customer feedback and satisfaction trends for British
 - `README.md`: Documentation.
 
 ## Tableau Dashboard
-![Dashboard Preview](https://drive.google.com/file/d/1VPAOjEpmn76V1u8IO15-HgRYf9jK_rf6/view?usp=drive_link)
-
+![Dashboard Preview](British_Airways_Project.jpg)
 ## 🤝 How to Contribute
 If you have suggestions or improvements:  
 🍴 Fork this repository.  
